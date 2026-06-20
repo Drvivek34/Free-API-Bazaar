@@ -9,4 +9,5 @@ Each provider lives in its own sub-folder with a `README.md` recording: free-tie
 Add via [CONTRIBUTING.md](../CONTRIBUTING.md) or the [submission form](https://github.com/Drvivek34/Free-API-Bazaar/issues/new/choose).
 
 ## Entries
-_No entries yet._
+
+_No entries yet — be the first to contribute!_
