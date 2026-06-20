@@ -1,0 +1,64 @@
+name: "➕ Submit a Free API"
+description: "Add a free LLM/AI API provider to the Free API Bazaar."
+title: "[Free API] <provider>"
+labels: ["submission", "free-api"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Provider name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Signup / docs URL
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - free-llm-inference
+        - free-trials-credits
+        - openai-compatible
+        - image-generation
+        - audio-tts-stt
+        - embeddings
+        - vision-multimodal
+        - video-generation
+        - code-models
+        - gateways-routers
+        - local-self-hosted
+        - rate-limit-notes
+        - misc
+    validations:
+      required: true
+  - type: input
+    id: limits
+    attributes:
+      label: Free-tier limits
+      placeholder: "e.g. 20 RPM / 1M tokens/day, no card"
+    validations:
+      required: true
+  - type: dropdown
+    id: card
+    attributes:
+      label: Credit card required?
+      options: ["No", "Yes", "Unknown"]
+    validations:
+      required: true
+  - type: textarea
+    id: models
+    attributes:
+      label: Models available
+    validations:
+      required: false
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: Info is current and I have not posted any secret API keys.
+          required: true
