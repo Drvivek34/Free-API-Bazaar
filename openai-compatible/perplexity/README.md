@@ -12,7 +12,7 @@ No permanent free tier. New accounts receive $25-$50 in trial credits. Perplexit
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.perplexity.ai`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

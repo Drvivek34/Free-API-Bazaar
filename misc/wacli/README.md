@@ -12,7 +12,7 @@ WhatsApp CLI tool for sending, syncing, and alerting messages directly from the 
 - **OpenAI Compatible**: No
 - **OpenAI Base URL**: `N/A`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

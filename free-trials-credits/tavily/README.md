@@ -12,7 +12,7 @@ AI-native search engine designed for LLMs. Free tier provides 1,000 search API q
 - **OpenAI Compatible**: No
 - **OpenAI Base URL**: `N/A`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

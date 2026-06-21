@@ -12,7 +12,7 @@ Offers the Step series of multimodal models. Free tier is available under the V0
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `N/A`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

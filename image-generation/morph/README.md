@@ -12,7 +12,7 @@ Includes Morph LLM (developer assistant) which offers a free tier of 200 request
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `N/A`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

@@ -12,7 +12,7 @@ Does not offer a formal subscription-based free tier. However, users can perform
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.deepinfra.com/v1/openai`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

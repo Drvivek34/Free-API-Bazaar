@@ -12,7 +12,7 @@ The web chat interface (chat.deepseek.com) is permanently free. The API does not
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.deepseek.com`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

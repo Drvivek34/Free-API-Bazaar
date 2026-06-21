@@ -12,7 +12,7 @@ Web scraping, crawling, and AI-powered extraction API. Free tier provides 500 to
 - **OpenAI Compatible**: No
 - **OpenAI Base URL**: `N/A`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

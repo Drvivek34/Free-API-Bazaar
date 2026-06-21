@@ -12,7 +12,7 @@ Generous free tier offering 1,000,000 free tokens per day (no credit card requir
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.cerebras.ai/v1`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

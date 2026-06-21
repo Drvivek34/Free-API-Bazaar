@@ -12,7 +12,7 @@ Offers free-tier access for specific models like GLM-4-Flash and GLM-4.5-Flash. 
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `N/A`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

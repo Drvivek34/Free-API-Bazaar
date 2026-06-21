@@ -12,7 +12,7 @@ Billed by usage (per-second billing). New users receive $200 in one-time free cr
 - **OpenAI Compatible**: No
 - **OpenAI Base URL**: `N/A`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

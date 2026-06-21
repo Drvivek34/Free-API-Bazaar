@@ -12,7 +12,7 @@ Offers permanently free access to select lightweight models like ERNIE-3.5-8K an
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `N/A`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

@@ -12,7 +12,7 @@ Free, open-source metasearch engine that aggregates results from more than 70 se
 - **OpenAI Compatible**: No
 - **OpenAI Base URL**: `N/A`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

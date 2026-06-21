@@ -12,7 +12,7 @@ Requires a minimum credit purchase of $5 to activate and maintain API access. Ne
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.together.xyz/v1`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

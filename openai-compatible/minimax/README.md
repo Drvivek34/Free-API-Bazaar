@@ -12,7 +12,7 @@ No permanent free tier. Provides limited trial credits to new developer accounts
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.minimax.chat/v1`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

@@ -12,7 +12,7 @@ Hosted cloud service for Ollama models. Free tier ($0/month) provides access to 
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.ollama.com`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

@@ -12,7 +12,7 @@ Provides 10 million free tokens upon account creation to test and prototype. Ope
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `N/A`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

@@ -12,7 +12,7 @@ Freemium model. Free tier allows 10 text prompts and 15 image prompts per day wi
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.venice.ai/api/v1`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

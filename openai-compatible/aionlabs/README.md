@@ -12,7 +12,7 @@ Offers a free tier with a recurring daily credit allowance (approx. 20,000 token
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.aionlabs.ai/v1`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

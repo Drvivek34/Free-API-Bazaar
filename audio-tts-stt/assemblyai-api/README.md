@@ -12,7 +12,7 @@ Free tier includes up to 185 hours of batch transcription and 333 hours of strea
 - **OpenAI Compatible**: No
 - **OpenAI Base URL**: `N/A`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

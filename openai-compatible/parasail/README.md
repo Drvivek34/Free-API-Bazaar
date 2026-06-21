@@ -12,7 +12,7 @@ Offers a 'Serverless - Free' tier for prototyping and testing, limited to 5 Requ
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `N/A`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

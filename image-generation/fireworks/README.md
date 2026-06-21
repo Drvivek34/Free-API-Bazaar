@@ -12,7 +12,7 @@ No permanent free tier. Offers $1 in free starter credits for new signups. Paid 
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.fireworks.ai/inference/v1`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

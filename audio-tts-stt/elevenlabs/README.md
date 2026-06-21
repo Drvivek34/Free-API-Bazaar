@@ -12,7 +12,7 @@ Premium AI speech synthesis and voice cloning. Free tier provides 10,000 charact
 - **OpenAI Compatible**: No
 - **OpenAI Base URL**: `N/A`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

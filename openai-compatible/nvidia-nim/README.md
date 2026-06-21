@@ -12,7 +12,7 @@ Provides free developer access to hosted NIM APIs for development, prototyping, 
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://integrate.api.nvidia.com/v1`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

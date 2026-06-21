@@ -12,7 +12,7 @@ Offers a Free tier with basic GPU access, 5GB storage, 12-hour auto-shutdown, an
 - **OpenAI Compatible**: No
 - **OpenAI Base URL**: `N/A`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

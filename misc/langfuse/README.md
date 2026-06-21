@@ -12,7 +12,7 @@ Open-source LLM engineering, tracing, and observability platform. Cloud Hobby pl
 - **OpenAI Compatible**: No
 - **OpenAI Base URL**: `N/A`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

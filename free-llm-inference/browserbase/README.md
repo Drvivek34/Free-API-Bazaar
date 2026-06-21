@@ -12,7 +12,7 @@ Managed cloud browser platform for web scraping and AI agents. Free plan offers 
 - **OpenAI Compatible**: No
 - **OpenAI Base URL**: `N/A`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

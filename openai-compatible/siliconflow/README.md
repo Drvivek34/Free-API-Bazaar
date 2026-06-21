@@ -12,7 +12,7 @@ Offers a 'Get Started for Free' tier featuring select free models (e.g., Qwen2.5
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.siliconflow.cn/v1`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

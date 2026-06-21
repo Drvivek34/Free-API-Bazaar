@@ -12,7 +12,7 @@ Grok chatbot has a limited free tier (~10 messages every 2 hours) on grok.com/X 
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.x.ai/v1`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

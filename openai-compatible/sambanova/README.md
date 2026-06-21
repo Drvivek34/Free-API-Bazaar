@@ -12,7 +12,7 @@ No perpetual free tier. Offers $5 in free API credits to new users (valid for 30
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.sambanova.ai/v1`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

@@ -12,7 +12,7 @@ Free tier provides a daily allocation of 10,000 Neurons across all accounts. Pai
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.cloudflare.com/client/v4/accounts/{account_id}/ai/run`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 

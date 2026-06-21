@@ -12,7 +12,7 @@ Flagship model Perceptron Mk1 can be tested for free via their demo app or integ
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `N/A`
 - **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-20
+- **Date Verified**: 2026-06-21
 
 ## Models Available
 
