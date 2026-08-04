@@ -8,11 +8,12 @@ Includes Morph LLM (developer assistant) which offers a free tier of 200 request
 
 - **Signup / Docs URL**: [https://www.morph.so/](https://www.morph.so/)
 - **Free-tier Limits**: Includes Morph LLM (developer assistant) which offers a free tier of 200 requests/month, and Morph Studio (video/image generation) which offers a free plan of 75 credits/month. Paid options: Morph LLM features Starter, Pro, and Scale plans with per-token billing (e.g., $0.80-$0.90/1M input tokens). Morph Studio plans start at ~$10/month (or $7/month billed annually) for 3,000 credits.
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `N/A`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

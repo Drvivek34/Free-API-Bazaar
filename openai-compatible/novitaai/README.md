@@ -8,11 +8,12 @@ No permanent free tier. New accounts receive $1 in free credits upon signup, wit
 
 - **Signup / Docs URL**: [https://novita.ai/](https://novita.ai/)
 - **Free-tier Limits**: No permanent free tier. New accounts receive $1 in free credits upon signup, with promotions offering up to $100 in Sandbox credits (valid for 90 days) or $10 for specific models. Startups can receive up to $10,000 in credits. Paid options: Pay-as-you-go based on token usage or hourly dedicated GPU instance hosting.
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.novita.ai/v1`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

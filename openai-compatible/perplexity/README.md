@@ -8,11 +8,12 @@ No permanent free tier. New accounts receive $25-$50 in trial credits. Perplexit
 
 - **Signup / Docs URL**: [https://www.perplexity.ai/pro](https://www.perplexity.ai/pro)
 - **Free-tier Limits**: No permanent free tier. New accounts receive $25-$50 in trial credits. Perplexity Pro subscribers ($20/month) receive $5 in monthly API credits. Startup programs offer grants from $500 to $5,000+. Paid options: Pay-as-you-go token pricing.
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.perplexity.ai`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

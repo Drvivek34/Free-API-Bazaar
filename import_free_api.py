@@ -3,9 +3,11 @@ import os
 import json
 import re
 from datetime import datetime
+from pathlib import Path
 
-FREE_API_DIR = "/root/bazaars/Free-API-Bazaar"
-PROVIDERS_JSON = "/root/awesome-free-llm-apis/free-llm-providers.json"
+FREE_API_DIR = str(Path(__file__).resolve().parent)
+PROVIDERS_JSON = str(Path(__file__).resolve().parent / "free-llm-providers.json")
+SOURCE_URL = "https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json"
 
 def kebab_case(name):
     s = name.lower()
@@ -18,10 +20,22 @@ def classify_provider(p):
     models = [m.lower() for m in p.get("models", [])]
     category = p.get("category", "").lower()
 
+    # Preserve source taxonomy for non-LLM APIs.
+    if category == "search":
+        return "search-web"
+    if category == "browser_tools":
+        return "browser-tools"
+    if category == "cli_tools":
+        return "cli-tools"
+    if category == "transcription":
+        return "audio-tts-stt"
+    if category == "other":
+        return "misc"
+
     # Image generation
     if any("stable-diffusion" in m or "stable diffusion" in m or "flux" in m or "dall-e" in m or "midjourney" in m for m in models) or "image" in quota or "image generation" in quota:
         return "image-generation"
-    
+
     # Audio / TTS / STT
     if category == "transcription" or any("whisper" in m or "tts" in m or "speech" in m or "audio" in m for m in models):
         return "audio-tts-stt"
@@ -60,7 +74,8 @@ def main():
         data = json.load(f)
 
     providers = data.get("providers", [])
-    print(f"Loaded {len(providers)} providers from {PROVIDERS_JSON}")
+    source_updated = data.get("last_updated", "unknown")
+    print(f"Loaded {len(providers)} providers from {PROVIDERS_JSON}; source updated {source_updated}")
 
     today_str = datetime.today().strftime("%Y-%m-%d")
     count_added = 0
@@ -69,17 +84,18 @@ def main():
     for p in providers:
         cat_slug = classify_provider(p)
         prov_slug = kebab_case(p["name"])
-        
+
         target_dir = os.path.join(FREE_API_DIR, cat_slug, prov_slug)
         os.makedirs(target_dir, exist_ok=True)
 
         # Determine card requirement
         quota = p.get("quota", "")
-        card_required = "No"
-        if "credit card required" in quota.lower() or "card required" in quota.lower() or "requires card" in quota.lower():
-            card_required = "Yes"
-        elif "no credit card required" in quota.lower() or "no card" in quota.lower():
+        card_required = "Not stated"
+        quota_lower = quota.lower()
+        if "no credit card required" in quota_lower or "no card required" in quota_lower or "without credit card" in quota_lower:
             card_required = "No"
+        elif "credit card required" in quota_lower or "card required" in quota_lower or "requires card" in quota_lower or "payment method" in quota_lower:
+            card_required = "Yes"
 
         # Build models list markdown
         models_md = ""
@@ -105,7 +121,8 @@ def main():
 - **Credit Card Required**: {card_required}
 - **OpenAI Compatible**: {openai_compat}
 - **OpenAI Base URL**: `{base_url}`
-- **Source**: Upstream Free LLM API List
+- **Source**: [API-Pulse upstream provider registry]({SOURCE_URL})
+- **Source Registry Updated**: {source_updated}
 - **Date Verified**: {today_str}
 
 ## Models Available

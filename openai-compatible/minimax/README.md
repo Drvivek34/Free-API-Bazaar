@@ -8,11 +8,12 @@ No permanent free tier. Provides limited trial credits to new developer accounts
 
 - **Signup / Docs URL**: [https://platform.minimaxi.com/](https://platform.minimaxi.com/)
 - **Free-tier Limits**: No permanent free tier. Provides limited trial credits to new developer accounts for testing. Paid options: Token Plan (monthly subscription starting at $10/month) or Pay-as-you-go (token packages starting at $5 for 5,000 credits). Standard rates for flagship models are typically around $0.30-$0.50/1M input tokens and $1.00-$1.20/1M output tokens.
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.minimax.chat/v1`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

@@ -8,11 +8,12 @@ No permanent free tier. Offers $1 in free starter credits for new signups. Paid 
 
 - **Signup / Docs URL**: [https://fireworks.ai/](https://fireworks.ai/)
 - **Free-tier Limits**: No permanent free tier. Offers $1 in free starter credits for new signups. Paid options: Serverless pay-per-token pricing based on model size (sub-4B: $0.10/1M tokens, 4B-16B: $0.20/1M tokens, 16B+: $0.90/1M tokens). Offers 50% discount for cached input tokens and batch inference.
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.fireworks.ai/inference/v1`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

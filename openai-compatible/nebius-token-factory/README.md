@@ -8,11 +8,12 @@ No permanent free tier. Provides free promotional credits upon account sign-up (
 
 - **Signup / Docs URL**: [https://nebius.ai/](https://nebius.ai/)
 - **Free-tier Limits**: No permanent free tier. Provides free promotional credits upon account sign-up ('Start Free' model) to test over 60 open-source models in the Playground or via API. Paid usage is pay-per-token for serverless access, or billed by compute hours for dedicated endpoints.
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `N/A`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

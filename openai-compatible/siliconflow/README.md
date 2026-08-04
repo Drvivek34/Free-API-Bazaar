@@ -8,11 +8,12 @@ Offers a 'Get Started for Free' tier featuring select free models (e.g., Qwen2.5
 
 - **Signup / Docs URL**: [https://siliconflow.cn/zh-cn/](https://siliconflow.cn/zh-cn/)
 - **Free-tier Limits**: Offers a 'Get Started for Free' tier featuring select free models (e.g., Qwen2.5-7B-Instruct) subject daily rate limits (e.g., 50 requests/day). New accounts receive $1 in free trial credits. Paid options: Pay-as-you-go token pricing for Pro models.
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.siliconflow.cn/v1`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

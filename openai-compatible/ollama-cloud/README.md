@@ -8,11 +8,12 @@ Hosted cloud service for Ollama models. Free tier ($0/month) provides access to 
 
 - **Signup / Docs URL**: [https://ollama.com/](https://ollama.com/)
 - **Free-tier Limits**: Hosted cloud service for Ollama models. Free tier ($0/month) provides access to a selection of cloud-enabled models, subject to base limits based on actual GPU compute/execution time rather than tokens. Paid plans: Pro ($20/month, 50x usage, 3 concurrent cloud models) and Max ($100/month, 5x Pro usage, 10 concurrent cloud models).
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.ollama.com`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

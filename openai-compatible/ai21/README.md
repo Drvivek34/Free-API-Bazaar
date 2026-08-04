@@ -8,11 +8,12 @@ Offers a free trial of $10 in credits valid for three months upon account creati
 
 - **Signup / Docs URL**: [https://www.ai21.com/](https://www.ai21.com/)
 - **Free-tier Limits**: Offers a free trial of $10 in credits valid for three months upon account creation. No permanent free tier. Once credits are exhausted or expired, users must transition to a paid plan. Commercial API access is usage-based (pay-as-you-go). Model usage via third-party cloud providers (AWS Bedrock, Azure) is governed by their respective rates.
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.ai21.com/studio/v1`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

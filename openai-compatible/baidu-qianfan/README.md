@@ -1,18 +1,19 @@
 # Baidu Qianfan
 
-Offers permanently free access to select lightweight models like ERNIE-3.5-8K and ERNIE-Speed-8K. Premium models like ERNIE-4.0-8K include introductory trial quotas (e.g., 1M free tokens in the first month). Paid options include pay-per-token consumption for proprietary ERNIE models and third-party models, as well as a paid 'Coding Plan' subscription for developer tools.
+The official Qianfan API reference documents current model and endpoint access but does not state a stable public free-tier quota on the reviewed page. Treat any free-model or introductory quota as region- and account-dependent and verify it in the current Baidu Cloud console before relying on it.
 
 > Part of **[Free API Bazaar](../../README.md)** · [Mega AI Bazaar](https://drvivek34.github.io/Mega-AI-Bazaar/)
 
 ## Details
 
-- **Signup / Docs URL**: [https://cloud.baidu.com/product/wenxin.html](https://cloud.baidu.com/product/wenxin.html)
-- **Free-tier Limits**: Offers permanently free access to select lightweight models like ERNIE-3.5-8K and ERNIE-Speed-8K. Premium models like ERNIE-4.0-8K include introductory trial quotas (e.g., 1M free tokens in the first month). Paid options include pay-per-token consumption for proprietary ERNIE models and third-party models, as well as a paid 'Coding Plan' subscription for developer tools.
-- **Credit Card Required**: No
+- **Signup / Docs URL**: [https://cloud.baidu.com/doc/qianfan-api/s/3m7of64lb](https://cloud.baidu.com/doc/qianfan-api/s/3m7of64lb)
+- **Free-tier Limits**: The official Qianfan API reference documents current model and endpoint access but does not state a stable public free-tier quota on the reviewed page. Treat any free-model or introductory quota as region- and account-dependent and verify it in the current Baidu Cloud console before relying on it.
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `N/A`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

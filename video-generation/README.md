@@ -10,4 +10,5 @@ Add via [CONTRIBUTING.md](../CONTRIBUTING.md) or the [submission form](https://g
 
 ## Entries
 
-_No entries yet — be the first to contribute!_
+| Entry | Description |
+|---|---|

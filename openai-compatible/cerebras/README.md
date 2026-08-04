@@ -1,22 +1,22 @@
 # Cerebras
 
-Generous free tier offering 1,000,000 free tokens per day (no credit card required). Paid options: Developer Tier (pre-paid starting at $10) with 10x higher rate limits and priority processing; Enterprise Tier with custom pricing for dedicated hosting and support.
+New accounts receive $5 in free credits after adding a verified payment method; the credits expire after 30 days and API/Playground access is inactive until the payment method is added. Limits are organization- and model-specific. The official rate-limit documentation describes uncached and total token buckets; the current shared-tier examples include 5 RPM and 30K TPM for gpt-oss-120b, zai-glm-4.7, and gemma-4-31b. Pay-as-you-go developers have higher limits without hourly or daily caps, subject to budget.
 
 > Part of **[Free API Bazaar](../../README.md)** · [Mega AI Bazaar](https://drvivek34.github.io/Mega-AI-Bazaar/)
 
 ## Details
 
-- **Signup / Docs URL**: [https://cloud.cerebras.ai/](https://cloud.cerebras.ai/)
-- **Free-tier Limits**: Generous free tier offering 1,000,000 free tokens per day (no credit card required). Paid options: Developer Tier (pre-paid starting at $10) with 10x higher rate limits and priority processing; Enterprise Tier with custom pricing for dedicated hosting and support.
+- **Signup / Docs URL**: [https://inference-docs.cerebras.ai/support/rate-limits](https://inference-docs.cerebras.ai/support/rate-limits)
+- **Free-tier Limits**: New accounts receive $5 in free credits after adding a verified payment method; the credits expire after 30 days and API/Playground access is inactive until the payment method is added. Limits are organization- and model-specific. The official rate-limit documentation describes uncached and total token buckets; the current shared-tier examples include 5 RPM and 30K TPM for gpt-oss-120b, zai-glm-4.7, and gemma-4-31b. Pay-as-you-go developers have higher limits without hourly or daily caps, subject to budget.
 - **Credit Card Required**: Yes
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.cerebras.ai/v1`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 
-- Llama 3.3
-- Llama 3.1 70B
-- Llama 4 Scout
-- Qwen 2.5 72B
+- gpt-oss-120b
+- zai-glm-4.7
+- gemma-4-31b

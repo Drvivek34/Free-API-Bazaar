@@ -1,18 +1,19 @@
 # AssemblyAI API
 
-Free tier includes up to 185 hours of batch transcription and 333 hours of streaming transcription (no credit card required). Startup program offers up to 200,000 hours of free credits. Billed under a pay-as-you-go model for additional usage, with core transcription rates and extra add-ons (Diarization, sentiment, LeMUR LLM analysis).
+Official pricing currently advertises $50 in free credits at signup with no credit card required. Free-tier streaming concurrency is capped at 5 new streams per minute; pay-as-you-go raises that to 100 new streams per minute. Additional transcription, speech understanding, and voice-agent usage is billed by usage.
 
 > Part of **[Free API Bazaar](../../README.md)** · [Mega AI Bazaar](https://drvivek34.github.io/Mega-AI-Bazaar/)
 
 ## Details
 
-- **Signup / Docs URL**: [https://www.assemblyai.com/](https://www.assemblyai.com/)
-- **Free-tier Limits**: Free tier includes up to 185 hours of batch transcription and 333 hours of streaming transcription (no credit card required). Startup program offers up to 200,000 hours of free credits. Billed under a pay-as-you-go model for additional usage, with core transcription rates and extra add-ons (Diarization, sentiment, LeMUR LLM analysis).
-- **Credit Card Required**: Yes
+- **Signup / Docs URL**: [https://www.assemblyai.com/pricing](https://www.assemblyai.com/pricing)
+- **Free-tier Limits**: Official pricing currently advertises $50 in free credits at signup with no credit card required. Free-tier streaming concurrency is capped at 5 new streams per minute; pay-as-you-go raises that to 100 new streams per minute. Additional transcription, speech understanding, and voice-agent usage is billed by usage.
+- **Credit Card Required**: No
 - **OpenAI Compatible**: No
 - **OpenAI Base URL**: `N/A`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

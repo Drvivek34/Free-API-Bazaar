@@ -8,11 +8,12 @@ API (La Plateforme) offers a permanent Free Tier for evaluation and prototyping,
 
 - **Signup / Docs URL**: [https://console.mistral.ai/api-keys](https://console.mistral.ai/api-keys)
 - **Free-tier Limits**: API (La Plateforme) offers a permanent Free Tier for evaluation and prototyping, subject to strict rate limits (e.g., 1 request/second global limit). Paid options: Scale plan (pay-as-you-go). Startup programs provide up to $30,000 in credits. Le Chat consumer chat service offers a free plan capped at ~25 messages/day and a Pro plan at $14.99/month.
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.mistral.ai/v1`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

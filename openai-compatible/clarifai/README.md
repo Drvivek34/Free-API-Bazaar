@@ -8,11 +8,12 @@ Has transitioned from tier-based subscriptions to a credits-based Pay-As-You-Go 
 
 - **Signup / Docs URL**: [https://www.clarifai.com/](https://www.clarifai.com/)
 - **Free-tier Limits**: Has transitioned from tier-based subscriptions to a credits-based Pay-As-You-Go model. New users can receive a one-time $5 welcome bonus (valid for 30 days) upon phone verification to test serverless API calls and custom deployments. Paid access requires purchasing additional credits to top up the account balance.
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `N/A`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

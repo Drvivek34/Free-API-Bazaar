@@ -8,11 +8,12 @@ No direct free tier. Operates strictly on consumption-based pricing designed for
 
 - **Signup / Docs URL**: [https://inceptron.com/](https://inceptron.com/)
 - **Free-tier Limits**: No direct free tier. Operates strictly on consumption-based pricing designed for EU data sovereignty. Access is typically provided through third-party gateways (e.g., Kilo.ai or Requesty) using per-million-token pay-as-you-go billing (e.g., $0.15/1M input tokens for MiniMax M2.5). Custom pricing is available for startups and enterprises.
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `N/A`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

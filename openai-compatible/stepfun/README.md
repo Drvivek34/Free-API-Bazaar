@@ -8,11 +8,12 @@ Offers the Step series of multimodal models. Free tier is available under the V0
 
 - **Signup / Docs URL**: [https://platform.stepfun.com/](https://platform.stepfun.com/)
 - **Free-tier Limits**: Offers the Step series of multimodal models. Free tier is available under the V0 tier ($0 account balance) with rate limits of 10 RPM and 5,000,000 TPM. Certain models (like Step 3.5 Flash) are also free to use via OpenRouter. Paid tiers require topping up your account balance (starting from $15 up to $1,500+), which increases RPM, TPM, and concurrency limits.
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `N/A`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

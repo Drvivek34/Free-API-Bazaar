@@ -8,11 +8,12 @@ Does not offer a formal subscription-based free tier. However, users can perform
 
 - **Signup / Docs URL**: [https://deepinfra.com/](https://deepinfra.com/)
 - **Free-tier Limits**: Does not offer a formal subscription-based free tier. However, users can perform unauthenticated testing of models with an empty api_key (rate-limited by IP address). Signing up can sometimes grant temporary token allotments. Paid options are strictly pay-as-you-go based on token usage (e.g., starting at ~$0.02/1M tokens) or execution time for non-LLMs. Cached tokens are discounted (e.g., ~$0.145/1M tokens).
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.deepinfra.com/v1/openai`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

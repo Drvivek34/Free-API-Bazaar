@@ -8,11 +8,12 @@ Free tier provides a daily allocation of 10,000 Neurons across all accounts. Pai
 
 - **Signup / Docs URL**: [https://dash.cloudflare.com/](https://dash.cloudflare.com/)
 - **Free-tier Limits**: Free tier provides a daily allocation of 10,000 Neurons across all accounts. Paid options: Workers Paid plan starts at $5/month, and usage beyond the daily free allocation is billed at $0.011 per 1,000 Neurons.
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.cloudflare.com/client/v4/accounts/{account_id}/ai/run`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

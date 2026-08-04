@@ -6,6 +6,12 @@
 
 Free API Bazaar (formerly awesome free LLM API resources) is a living catalog of providers that offer free or free-tier access to LLMs, image, audio, video, embeddings, and multimodal models — with their real limits, OpenAI-compatibility, and signup links. The most generous picks are surfaced in **featured/**.
 
+## 🔄 Current snapshot
+- Refreshed **2026-08-04** from the [API-Pulse provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json), whose source snapshot is timestamped `2026-08-04T10:35:00+05:30`.
+- **93 provider records** were re-imported with current limits, model lists, compatibility details, source links, and verification dates; older attributed entries are retained rather than deleted.
+- New top-level taxonomies include **Search & Web**, **Browser Tools**, and **CLI Tools** so non-LLM offers are not buried in Miscellaneous.
+- Treat every quota as time-sensitive: verify the linked provider page before relying on an offer, especially for promotional credits and region-specific access.
+
 ## 📂 Categories
 
 **[⭐ Featured](featured/)** — top picks, surfaced at the very front.
@@ -13,6 +19,8 @@ Free API Bazaar (formerly awesome free LLM API resources) is a living catalog of
 | Category | About |
 |---|---|
 | [Audio: TTS & STT](audio-tts-stt/) | Free text-to-speech and speech-to-text APIs. |
+| [Browser Tools](browser-tools/) | Free or open-source browser runtimes and agent browser tools. |
+| [CLI Tools](cli-tools/) | Free local or developer command-line tools for AI workflows. |
 | [Code Models](code-models/) | Free code-generation and completion APIs. |
 | [Embeddings](embeddings/) | Free embedding / vector APIs. |
 | [Free LLM Inference](free-llm-inference/) | Providers offering genuinely-free (no card) LLM text inference. |
@@ -23,6 +31,7 @@ Free API Bazaar (formerly awesome free LLM API resources) is a living catalog of
 | [Miscellaneous](misc/) | Other free AI APIs. |
 | [OpenAI-Compatible](openai-compatible/) | Free endpoints that speak the OpenAI API format (drop-in base_url). |
 | [Rate-Limit Notes](rate-limit-notes/) | Community-maintained notes on limits, gotchas, and reliability. |
+| [Search & Web](search-web/) | Free or free-credit web search, crawling, and extraction APIs. |
 | [Video Generation](video-generation/) | Free text-to-video / video APIs. |
 | [Vision & Multimodal](vision-multimodal/) | Free vision and multimodal model APIs. |
 

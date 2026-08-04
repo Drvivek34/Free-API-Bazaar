@@ -8,11 +8,12 @@ Requires a minimum credit purchase of $5 to activate and maintain API access. Ne
 
 - **Signup / Docs URL**: [https://together.ai/](https://together.ai/)
 - **Free-tier Limits**: Requires a minimum credit purchase of $5 to activate and maintain API access. New accounts generally receive $5 in free credits to test the API. Billed under a pay-as-you-go serverless model ranging from $0.05 to $9.00 per million tokens (e.g., Llama 3.3 70B is ~$0.88/M tokens; DeepSeek R1 is ~$3.00/$7.00 per M tokens). Offers input context caching discounts.
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.together.xyz/v1`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

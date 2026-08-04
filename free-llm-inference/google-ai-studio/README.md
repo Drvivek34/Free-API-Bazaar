@@ -1,18 +1,19 @@
 # Google AI Studio
 
-Free tier available for the Gemini Developer API on non-billing-enabled projects, subject to RPM, TPM, and RPD rate limits (data may be used for model training). Access to Pro models on the free tier was restricted starting April 1, 2026. Enabling billing removes the free tier and transitions the project to pay-as-you-go pricing (prepaid billing for new users, with mandatory spend caps and context caching discounts).
+New projects start on the Gemini API Free Tier for eligible models, with free input and output tokens, AI Studio access, and model-specific rate limits. Google states that free-tier content may be used to improve products; paid tiers remove that data-use condition. Check the official pricing and rate-limit pages for the exact model-specific quotas before relying on them.
 
 > Part of **[Free API Bazaar](../../README.md)** · [Mega AI Bazaar](https://drvivek34.github.io/Mega-AI-Bazaar/)
 
 ## Details
 
-- **Signup / Docs URL**: [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
-- **Free-tier Limits**: Free tier available for the Gemini Developer API on non-billing-enabled projects, subject to RPM, TPM, and RPD rate limits (data may be used for model training). Access to Pro models on the free tier was restricted starting April 1, 2026. Enabling billing removes the free tier and transitions the project to pay-as-you-go pricing (prepaid billing for new users, with mandatory spend caps and context caching discounts).
-- **Credit Card Required**: No
+- **Signup / Docs URL**: [https://ai.google.dev/gemini-api/docs/pricing](https://ai.google.dev/gemini-api/docs/pricing)
+- **Free-tier Limits**: New projects start on the Gemini API Free Tier for eligible models, with free input and output tokens, AI Studio access, and model-specific rate limits. Google states that free-tier content may be used to improve products; paid tiers remove that data-use condition. Check the official pricing and rate-limit pages for the exact model-specific quotas before relying on them.
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: No
 - **OpenAI Base URL**: `N/A`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

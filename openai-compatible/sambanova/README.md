@@ -8,11 +8,12 @@ No perpetual free tier. Offers $5 in free API credits to new users (valid for 30
 
 - **Signup / Docs URL**: [https://cloud.sambanova.ai/](https://cloud.sambanova.ai/)
 - **Free-tier Limits**: No perpetual free tier. Offers $5 in free API credits to new users (valid for 30 to 90 days, no credit card required) subject to Free Tier rate limits. Paid options: Developer Tier (pay-as-you-go) with higher rate limits (e.g., 20M tokens/day) once a billing method is linked.
-- **Credit Card Required**: Yes
+- **Credit Card Required**: No
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.sambanova.ai/v1`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

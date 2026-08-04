@@ -8,11 +8,12 @@ Claude.ai interactive chat offers a permanent free tier with usage limits capped
 
 - **Signup / Docs URL**: [https://console.anthropic.com/](https://console.anthropic.com/)
 - **Free-tier Limits**: Claude.ai interactive chat offers a permanent free tier with usage limits capped on a rolling 5-hour window. The developer API has no permanent free tier but provides a small one-time starter credit upon account creation. Paid options include Claude.ai Pro ($20/month) and consumption-based developer API billing. The CLAUDE_CODE_OAUTH_TOKEN environment variable can be used to authenticate coding tasks via Anthropic's OAuth device flow.
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: No
 - **OpenAI Base URL**: `N/A`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

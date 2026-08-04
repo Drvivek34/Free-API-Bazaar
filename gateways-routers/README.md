@@ -12,4 +12,4 @@ Add via [CONTRIBUTING.md](../CONTRIBUTING.md) or the [submission form](https://g
 
 | Entry | Description |
 |---|---|
-| [Openrouter](openrouter/) | 20 RPM, 50 RPD free models (up to 1,000 RPD with $10 lifetime top-up) |
+| [OpenRouter](openrouter/) | Free model variants use platform-level requests-per-minute and requests-per-day caps that can change by policy and account history. The official limits page says to check current usage through GET /api/v1/key and to honor X-RateLimit-* and Retry-After headers. |

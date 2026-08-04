@@ -8,11 +8,12 @@ Hermes audio transcription and speech integration using OpenAI Whisper (STT) and
 
 - **Signup / Docs URL**: [https://platform.openai.com/](https://platform.openai.com/)
 - **Free-tier Limits**: Hermes audio transcription and speech integration using OpenAI Whisper (STT) and OpenAI TTS. Billed directly via the configured OpenAI API key (pay-as-you-go). Whisper is priced at $0.006/minute of audio. OpenAI TTS is priced at $15/M characters (Standard) and $30/M characters (HD).
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: No
 - **OpenAI Base URL**: `N/A`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

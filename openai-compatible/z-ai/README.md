@@ -8,11 +8,12 @@ Offers free-tier access for specific models like GLM-4-Flash and GLM-4.5-Flash. 
 
 - **Signup / Docs URL**: [https://open.bigmodel.cn/](https://open.bigmodel.cn/)
 - **Free-tier Limits**: Offers free-tier access for specific models like GLM-4-Flash and GLM-4.5-Flash. New users receive registration bonuses of free tokens (millions of tokens) valid for a limited period. Paid API usage is billed per token on a pay-as-you-go model. Offers GLM Coding subscription plans for premium/agentic models.
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `N/A`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

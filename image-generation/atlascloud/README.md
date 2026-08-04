@@ -8,11 +8,12 @@ Provides a unified API to access over 300 models on a pay-as-you-go consumption 
 
 - **Signup / Docs URL**: [https://atlascloud.io/](https://atlascloud.io/)
 - **Free-tier Limits**: Provides a unified API to access over 300 models on a pay-as-you-go consumption model (e.g., DeepSeek V3 at $0.07/1M tokens). GPU Cloud instances start around $2.95/hr with per-second billing. Standard developer subscriptions are currently noted as unavailable, and evaluation credits/promotions vary dynamically within the console.
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `N/A`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

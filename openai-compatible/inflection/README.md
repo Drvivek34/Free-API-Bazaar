@@ -8,11 +8,12 @@ The Pi consumer personal assistant app is completely free with no usage limits o
 
 - **Signup / Docs URL**: [https://inflection.ai/](https://inflection.ai/)
 - **Free-tier Limits**: The Pi consumer personal assistant app is completely free with no usage limits or premium tiers. The developer API operates on usage-based pricing (e.g., Inflection-3 billed at approx. $2.50 per million input tokens and $10.00 per million output tokens) with custom enterprise options.
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `N/A`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 

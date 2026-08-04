@@ -8,11 +8,12 @@ No public free tier. Operates on a pay-per-token serverless API platform or fixe
 
 - **Signup / Docs URL**: [https://nextbit.ai/](https://nextbit.ai/)
 - **Free-tier Limits**: No public free tier. Operates on a pay-per-token serverless API platform or fixed-price dedicated instances for enterprise needs.
-- **Credit Card Required**: No
+- **Credit Card Required**: Not stated
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `N/A`
-- **Source**: Upstream Free LLM API List
-- **Date Verified**: 2026-06-21
+- **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
+- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
+- **Date Verified**: 2026-08-04
 
 ## Models Available
 
