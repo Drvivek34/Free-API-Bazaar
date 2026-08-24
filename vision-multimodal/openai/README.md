@@ -12,8 +12,8 @@ No permanent free API tier. New accounts receive a one-time trial credit (e.g., 
 - **OpenAI Compatible**: Yes
 - **OpenAI Base URL**: `https://api.openai.com/v1`
 - **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
-- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
-- **Date Verified**: 2026-08-04
+- **Source Registry Updated**: 2026-08-24T12:00:00+05:30
+- **Date Verified**: 2026-08-24
 
 ## Models Available
 

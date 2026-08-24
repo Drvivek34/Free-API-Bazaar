@@ -12,8 +12,8 @@ Offers a Free tier with basic GPU access, 5GB storage, 12-hour auto-shutdown, an
 - **OpenAI Compatible**: No
 - **OpenAI Base URL**: `N/A`
 - **Source**: [API-Pulse upstream provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json)
-- **Source Registry Updated**: 2026-08-04T10:35:00+05:30
-- **Date Verified**: 2026-08-04
+- **Source Registry Updated**: 2026-08-24T12:00:00+05:30
+- **Date Verified**: 2026-08-24
 
 ## Models Available
 

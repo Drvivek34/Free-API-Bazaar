@@ -1,19 +1,57 @@
-# Search Web
+# Search & Web
 
-Curated free API providers in the Free API Bazaar family.
+Free or free-credit web search, crawling, and extraction APIs — the "give my agent eyes on
+the web" shelf.
 
 > Part of **[Free API Bazaar](../README.md)** · Browse all bazaars at the **[Mega AI Bazaar](https://drvivek34.github.io/Mega-AI-Bazaar/)**.
 
-Contributions must include a source, author, and license note.
+## How entries are stored
+Each provider lives in **its own sub-folder** inside this category, named in `kebab-case`:
+
+```
+search-web/
+└── <provider-name>/
+    └── README.md     # free-tier limits, access steps, API examples, pitfalls
+```
+
+## Add to this category
+- Open a PR following the [contribution guide](../CONTRIBUTING.md), **or**
+- Submit via the [submission form](https://github.com/Drvivek34/Free-API-Bazaar/issues/new/choose).
+
+## Quick comparison (verified 2026-08-24)
+
+| Provider | Free allowance | Card needed? | Best for |
+|---|---|---|---|
+| [Tavily](tavily/) | 1,000 credits/month (recurring) | No | LLM-native search + extract, easiest default |
+| [Exa](exa/) | $10 credits/month (+$20 signup) | No | Semantic / neural search, papers, news |
+| [Firecrawl](firecrawl/) | 1,000 credits/month | No | Search → scrape → clean markdown pipeline |
+| [Brave Search API](brave-search-api/) | $5 credits/month (~1k queries) ⚠️ model changed Aug 2025 | Yes | Freshness (`age` field), independent index |
+| [Serper.dev](serper-dev/) | 2,500 one-time credits | Not stated | Real Google SERP JSON, cheapest paid tier |
+| [Google Custom Search](google-custom-search-json-api/) | 100 queries/day | Only for paid quota | Official Google results, site-scoped monitoring |
+| [SearXNG](searxng/) | Unlimited (self-hosted) | No | Dev/testing, keyless metasearch |
+| [Parallel Web Systems](parallel/) | PAYG ≈ $0.005/search; free local MCP server | See entry | Task-oriented parallel web research API |
+
+## Picking one (cheat sheet)
+
+- **Default agent search** → Tavily (recurring monthly quota, no card).
+- **Conceptual / research queries** → Exa.
+- **Need full page content, not snippets** → Firecrawl.
+- **Freshness-sensitive lookups** → Brave (check its changed free tier first).
+- **Exact Google results / answer boxes** → Serper or Google Custom Search.
+- **Unlimited testing budget** → self-host SearXNG.
+
+Quotas change often — every entry page carries a *verified* date; re-check the linked
+official pricing page before relying on an offer.
 
 ## Entries
 
 | Entry | Description |
 |---|---|
-| [Brave Search API](brave-search-api/) | Metered pricing model. Automatically provides $5 in free credits every month, covering approximately 1,000 free requests/month. The standard Search Plan is priced at $5 per 1,000 requests (includes Web, News, Images, LLM context). Answers Plan is priced at $4  |
-| [Exa](exa/) | AI-native web search and content extraction engine. Free tier provides 1,000 free search queries/month for developer accounts (resets monthly, no credit card required). Paid plan starts at $20/month (includes 10,000 queries, overages at $0.002/query). Enterpri |
-| [Firecrawl](firecrawl/) | Web scraping, crawling, and AI-powered extraction API. Free tier provides 500 to 1,000 credits/month (no credit card required) for evaluation. Paid plans start at $19/month (Hobby, 3,000 credits) to $599/month (Scale). Operations consume credits based on compl |
-| [Google Custom Search JSON API](google-custom-search-json-api/) | Closed to new signups. The API is in a sunset phase and will be fully discontinued on January 1, 2027. For existing customers, the free tier provides 100 queries/day. Additional queries cost $5 per 1,000 requests, up to a daily limit of 10,000 queries. |
-| [Parallel](parallel/) | AI-native search and extraction engine. Operates primarily on a pay-as-you-go consumption model with no standard monthly free tier for its hosted web APIs. Search requests are billed at ~$0.005/request and extraction at ~$0.001/request. The Parallel Search Mod |
-| [SearXNG](searxng/) | Free, open-source metasearch engine that aggregates results from more than 70 search services. Completely free to self-host (using Docker or local installation) with zero API keys required. Integrates with agents via setting the SEARXNG_URL environment variabl |
-| [Tavily](tavily/) | AI-native search engine designed for LLMs. Free tier provides 1,000 search API queries/month (no credit card required, resets monthly). Billed by usage: Basic Search consumes 1 credit, Advanced Search consumes 2 credits, Extract consumes 1 credit/5 URLs. Paid  |
+| [Tavily](tavily/) | AI-native search engine for LLMs. 1,000 free credits/month, no card. |
+| [Exa](exa/) | Neural/semantic search API. $20 signup + $10/month free credits. |
+| [Firecrawl](firecrawl/) | Search + scrape + crawl to clean markdown. 1,000 free credits/month. |
+| [Brave Search API](brave-search-api/) | Independent web index; $5/month free credits (card required). |
+| [Serper.dev](serper-dev/) | Google SERP JSON API; 2,500 one-time free credits. |
+| [Google Custom Search JSON API](google-custom-search-json-api/) | Official Google search; 100 free queries/day. |
+| [Parallel Web Systems](parallel/) | Parallel task-oriented web research API. |
+| [SearXNG](searxng/) | Self-hosted metasearch aggregator; unlimited & keyless. |

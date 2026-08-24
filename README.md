@@ -7,7 +7,7 @@
 Free API Bazaar (formerly awesome free LLM API resources) is a living catalog of providers that offer free or free-tier access to LLMs, image, audio, video, embeddings, and multimodal models — with their real limits, OpenAI-compatibility, and signup links. The most generous picks are surfaced in **featured/**.
 
 ## 🔄 Current snapshot
-- Refreshed **2026-08-04** from the [API-Pulse provider registry](https://github.com/Drvivek34/awesome-free-llm-apis/blob/main/free-llm-providers.json), whose source snapshot is timestamped `2026-08-04T10:35:00+05:30`.
+- Refreshed **2026-08-24** — search/web-API entries (Tavily, Exa, Firecrawl, Brave Search API) re-verified against official pricing pages; each [Search & Web](search-web/) entry now has a dedicated how-to page (free-tier limits, access steps, API examples, agent tips, pitfalls).
 - **93 provider records** were re-imported with current limits, model lists, compatibility details, source links, and verification dates; older attributed entries are retained rather than deleted.
 - New top-level taxonomies include **Search & Web**, **Browser Tools**, and **CLI Tools** so non-LLM offers are not buried in Miscellaneous.
 - Treat every quota as time-sensitive: verify the linked provider page before relying on an offer, especially for promotional credits and region-specific access.

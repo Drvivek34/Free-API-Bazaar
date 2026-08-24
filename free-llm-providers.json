@@ -1070,7 +1070,7 @@
       "type": "first-party",
       "category": "search",
       "openai_compatible": false,
-      "quota": "Metered pricing model. Automatically provides $5 in free credits every month, covering approximately 1,000 free requests/month. The standard Search Plan is priced at $5 per 1,000 requests (includes Web, News, Images, LLM context). Answers Plan is priced at $4 per 1,000 queries plus token costs.",
+      "quota": "Enterprise-grade Web Search API over a 40B+ page index. The old permanent 2,000 queries/month free tier was retired in the Aug 2025 AI Grounding update; developers now receive $5 in FREE prepaid credits every month - roughly 1,000-1,600 Web Search queries (AI snippet / Grounding calls cost more per query). A payment card is required at signup for metered billing above the monthly credits. Credit card required at signup.",
       "models": [
         "Search API (No custom LLM models hosted)"
       ]
@@ -1301,7 +1301,7 @@
       "type": "first-party",
       "category": "search",
       "openai_compatible": false,
-      "quota": "Web scraping, crawling, and AI-powered extraction API. Free tier provides 500 to 1,000 credits/month (no credit card required) for evaluation. Paid plans start at $19/month (Hobby, 3,000 credits) to $599/month (Scale). Operations consume credits based on complexity (e.g. AI extract/stealth proxies cost more). Also available as a free self-hosted open-source version (Docker Compose) with custom FIRECRAWL_API_URL environment overrides.",
+      "quota": "Web scraping, crawling, mapping and extraction API with a /search endpoint. Official free plan: 1,000 credits refreshed every month (1 credit = ~1 page scraped; search/crawl/map/scrape all draw credits), roughly 10 req/min, no credit card required. Paid Hobby tier available once the monthly refresh is outgrown.",
       "models": [
         "Scraping API",
         "Crawling API",
@@ -1317,7 +1317,7 @@
       "type": "first-party",
       "category": "search",
       "openai_compatible": false,
-      "quota": "AI-native web search and content extraction engine. Free tier provides 1,000 free search queries/month for developer accounts (resets monthly, no credit card required). Paid plan starts at $20/month (includes 10,000 queries, overages at $0.002/query). Enterprise plans offer custom limits and dedicated endpoints. Includes search, contents/scraping, and similarity endpoints.",
+      "quota": "Semantic / neural search API built for AI apps. New accounts get $20 in free credits (~2,800 searches) and the Free Tier adds $10 in fresh credits every month (roughly 1,000-1,400 searches depending on endpoint mix). No credit card required. Pay-as-you-go beyond that starts around $7 per 1,000 standard neural /search requests (varies by endpoint; /contents costs more).",
       "models": [
         "Search API",
         "Extract API",
@@ -1349,7 +1349,7 @@
       "type": "first-party",
       "category": "search",
       "openai_compatible": false,
-      "quota": "AI-native search engine designed for LLMs. Free tier provides 1,000 search API queries/month (no credit card required, resets monthly). Billed by usage: Basic Search consumes 1 credit, Advanced Search consumes 2 credits, Extract consumes 1 credit/5 URLs. Paid plans: Pay-as-you-go at $0.008/credit, or monthly subscriptions starting at $15/month.",
+      "quota": "AI-native search engine built for LLMs. Free 'Researcher' plan includes 1,000 API credits every month, no credit card required (resets monthly). Credit costs: Basic Search = 1 credit, Advanced Search = 2 credits, Extract = 1 credit per 5 URLs, Crawl = 1 credit per 10 URLs extracted. Paid: Project plan $30/month for 4,000 credits, or pay-as-you-go overage around $0.008/credit.",
       "models": [
         "Search API",
         "Extract API",
@@ -1542,5 +1542,5 @@
       ]
     }
   ],
-  "last_updated": "2026-08-04T10:35:00+05:30"
+  "last_updated": "2026-08-24T12:00:00+05:30"
 }
